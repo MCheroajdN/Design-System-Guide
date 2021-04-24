@@ -4,6 +4,7 @@ html, body {
     padding: 0;
     background-color: #F6F6F6;
     max-height: 50%;
+    overflow-x: hidden;
     
 }
 
