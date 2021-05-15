@@ -2,7 +2,7 @@
 ## Introduction
 Codecademy project required to complete as part of Full Stack Developer course. 
 
-## REQUIREDMENT
+## REQUIREMENT
 To build a style guide/design system for my website which will help to  organize the look and feel of a website or web application and to document the visual vocabulary and reusable components of a large website.
 
 ## PROJECT GOAL
